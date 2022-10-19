@@ -1,4 +1,4 @@
-package ifood.dio.loops.exercicios;
+package ifood.dio.exercicios.loops;
 
 import java.util.Scanner;
 
