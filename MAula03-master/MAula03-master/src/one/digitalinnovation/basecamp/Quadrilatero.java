@@ -17,7 +17,7 @@ public class Quadrilatero {
 
     public static double area(double baseMaior, double baseMenor, double altura) {
 
-        return ((baseMaior+baseMenor)*altura) / 2;
+        return ((baseMaior + baseMenor) * altura) / 2;
     }
 
     public static void xpto() {
